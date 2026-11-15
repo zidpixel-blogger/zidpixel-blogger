@@ -14,8 +14,8 @@
   <a href="https://zidpixel.blogspot.com/">
     <img src="https://img.shields.io/badge/Portfolio-zidpixel.blogspot.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://forum-mpk-nasional.blogspot.com/">
-    <img src="https://img.shields.io/badge/Project-FOMNAS-green?style=for-the-badge&logo=blogger&logoColor=white" alt="FOMNAS" />
+  <a href="https://draft.blogger.com/profile/10977842614030537961">
+    <img src="https://img.shields.io/badge/Blogger-Developer-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger.com" />
   </a>
 </p>
 
