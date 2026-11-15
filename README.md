@@ -1,3 +1,15 @@
+<p align="center">
+  <span style="font-family: 'Noto Sans Javanese', 'Javanese Text', sans-serif; font-size: 28px; font-weight: bold; color: #5B8CFF; letter-spacing: 2px;">
+    ꧋ꦏꦂꦪꦚꦠ꧈ꦢꦸꦢꦸꦩꦸꦁꦲꦺꦴꦩꦺꦴꦔꦤ꧀ ꧉
+  </span>
+</p>
+<p align="center">
+  <i>"Karya nyata, dudu mung omongan"</i>
+</p>
+
+<br/>
+
+<!-- ================= ASCII ART ZIDPIXEL ================= -->
 <h1 align="center">
   <pre>
 ███████╗██╗██████╗ ██████╗ ██╗██╗  ██╗███████╗██╗     
