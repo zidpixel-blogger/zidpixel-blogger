@@ -22,11 +22,11 @@
 ---
 
 ### 🚀 Tentang Saya
-Saya adalah siswa SMK yang berfokus pada **Web Architecture** dan **Custom XML** untuk platform Blogger. Saya suka mengubah platform blogging sederhana menjadi website profesional yang cepat, responsif, dan *mobile-friendly*.
+Saya adalah siswa SMK yang berfokus pada **Web Architecture**, **Custom XML**, dan **Frontend Development** untuk platform Blogger. Saya mengubah platform blogging sederhana menjadi website profesional yang cepat, responsif, dan berorientasi pada detail.
 
-- 🔭 Saat ini sedang mengembangkan **Forum MPK Nasional (FOMNAS)**.
-- 💼 Membuka jasa pembuatan website untuk sekolah, organisasi, dan UMKM.
-- 💡 Tertarik pada UI/UX, optimasi kecepatan web, dan struktur data.
+- 💼 Menerima jasa pembuatan website untuk sekolah, organisasi, UMKM, dan personal branding.
+- 💡 Berfokus pada UI/UX, optimasi kecepatan web, struktur data, dan aksesibilitas.
+- 🤖 Terbiasa menggunakan AI (*DeepSeek* & *Gemini*) sebagai *pair programming* untuk mempercepat *debugging* dan eksplorasi arsitektur web.
 
 ---
 
@@ -36,10 +36,34 @@ Saya adalah siswa SMK yang berfokus pada **Web Architecture** dan **Custom XML**
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" />
+  <img src="https://img.shields.io/badge/Blogger_API_v3-FF5722?style=for-the-badge&logo=google&logoColor=white" alt="Blogger API v3" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
+
+### 🤖 AI Tools & Copilots
+Saya menggunakan AI untuk mempercepat *development*, *debugging*, dan *problem solving*.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DeepSeek_AI-4B0082?style=for-the-badge&logo=openai&logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+</p>
+
+---
+
+### 🏆 Sertifikasi & Komunitas
+
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw49m_7G2sfaDUJ70LQ7qJdP5mquhkbR0FThDi0CLDyQrRLRMbYKBbNbq2gLxCpHK7RWbo6bm0OSY6n8WY_Yqj7zOe9pFT-4Vjg2tdlUryGr-4DWWusnlOiN-qLuaIF-pC7Vvf-VYi0MkzKY8I83D__qK8l-LyDCmYK9sqguJtAADl81BmAuqtU9ClHDU/s2480/sertifikat-zidan_arkana.png" alt="Sertifikat Member IMPHNEN" width="600" style="border-radius: 8px; border: 1px solid #eee; padding: 10px;" />
+</p>
+
+<p align="center">
+  <i>Member Resmi IMPHNEN (Ingin Menjadi Programmer Handal Namun Enggan Ngoding) - Jawa Tengah.</i>
+</p>
+
+---
+
 
 ### 💼 Proyek Unggulan
 Berikut adalah beberapa website yang telah saya kembangkan (menggunakan Blogger Custom XML):
